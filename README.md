@@ -1,10 +1,9 @@
-# 🧩 Customer Segmentation with Clustering
+# Customer Segmentation with Clustering
 
 This project demonstrates how to apply **Machine Learning clustering techniques** to perform **customer segmentation**. By grouping customers with similar behaviors and characteristics, businesses can design targeted marketing strategies, improve personalization, and increase customer retention.
 
 Developed by **Nowa Analytics**, a boutique consultancy specialized in data-driven business solutions.
 
----
 
 ## 📌 Project Overview
 
@@ -18,7 +17,7 @@ Through clustering techniques, we can:
 
 This methodology can be applied to real-world marketing problems using real datasets.
 
----
+
 
 ## ⚙️ Project Workflow
 
@@ -57,7 +56,7 @@ This methodology can be applied to real-world marketing problems using real data
    * Provide actionable recommendations for marketing and sales teams
    * Communicate insights in a clear and business-oriented way
 
----
+
 
 ## 📁 Project Structure
 
@@ -75,7 +74,7 @@ This methodology can be applied to real-world marketing problems using real data
 └── requirements.txt      # Dependencies
 ```
 
----
+
 
 ## 📊 Technologies & Libraries
 
@@ -86,7 +85,7 @@ This methodology can be applied to real-world marketing problems using real data
 * Yellowbrick (for cluster visualization)
 * Jupyter Notebook
 
----
+
 
 ## ✅ Results
 
@@ -95,7 +94,7 @@ This methodology can be applied to real-world marketing problems using real data
 * Translated data-driven insights into **marketing strategies** for customer retention and acquisition
 * Delivered clear visualizations to communicate findings across the business
 
----
+
 
 ## 🏢 About Nowa Analytics
 
@@ -104,7 +103,7 @@ This methodology can be applied to real-world marketing problems using real data
 📍 Offices in São Paulo, Madrid, and London
 🌐 [nowaanalytics.com](http://nowaanalytics.com)
 
----
+
 
 ## 📬 Contact
 
